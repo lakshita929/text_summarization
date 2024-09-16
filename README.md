@@ -30,8 +30,8 @@ requirements.txt: Contains the necessary dependencies for the project.
 
 Installation
 Clone the repository and install the dependencies:
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone the repo
+cd the repo folder
 pip install -r requirements.txt
 
 How to Run
